@@ -9,11 +9,9 @@ Desta maneira, é possível avaliar como a queda se comporta variando parâmetro
 
  **Queda Livre**
  
-Solte do repouso, numa altura \( H \) acima do solo, um objeto de massa \( m \). Este objeto está sujeito à ação da força da gravidade \( \vec{F}_g \).
+Quando soltamos um objeto de massa $m$ do repouso, a partir de uma altura $H$  acima do solo, ele fica sujeito à força gravitacional $\vec{F}_g$.
 
-A queda livre é um movimento caracterizado pela ausência de forças resistivas, como a resistência do ar, deixando a gravidade como a única força atuante. Quando um objeto cai em queda livre, ele experimenta uma aceleração constante devido à gravidade, que na superfície da Terra tem uma média de \( 9,8 \, m/s^2 \).
+A queda livre é um movimento caracterizado pela ausência de forças resistivas, como a resistência do ar, deixando a gravidade como a única força atuante. Quando um objeto cai em queda livre, ele experimenta uma aceleração constante devido à gravidade, que na superfície da Terra tem uma média de $9,8 m/s^2$.
 
 Neste tipo de movimento, a velocidade do objeto aumenta progressivamente à medida que ele se aproxima do solo. A queda livre é um exemplo clássico do movimento uniformemente acelerado, descrito por equações que permitem calcular a velocidade e a posição do objeto ao longo do tempo. Estudada por cientistas como Galileu Galilei, a queda livre ajuda a entender a influência da gravidade e serve de base para conceitos fundamentais da Física.
-
-Quando soltamos um objeto de massa \( m \) do repouso, a partir de uma altura \( H \) acima do solo, ele fica sujeito à força gravitacional \( \vec{F}_g \).
 
