@@ -69,6 +69,12 @@ z(t) = H - \frac{1}{2} g t^2
 
 Para resolver isso, foi feita uma simulação de queda livre em Python, na qual os parâmetros de entrada podem ser variados. 
 
+<p align="center">
+  <img src="imagens/maca.png" alt="Descrição da imagem">
+  <br>
+</p>
+
+
 ## Implementação
 
 - **Linguagens e Pacotes:**  
