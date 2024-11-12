@@ -3,7 +3,17 @@
 ## Descrição Básica do Projeto
 Este projeto é uma simulação criada para visualizar o conceito de gravidade e queda livre na Física. O propósito é oferecer uma representação gráfica que permita o estudo e a compreensão dos conceitos envolvidos. O código gera uma animação que representa a queda livre de uma maçã a partir de uma altura \( H \) conforme ocorre a passagem do tempo. 
 
-Desta maneira, é possível avaliar como a queda se comporta variando parâmetros como, por exemplo, a altura inicial da queda e o valor da gravidade. A simulação permite uma análise visual e quantitativa, ajudando a aprofundar o entendimento dos efeitos da gravidade e das leis do movimento sobre um corpo em queda livre.
+ **Uma maçã caindo de um galho:**
+ Imagine a cena: um físico distraído está andando tranquilamente sob uma árvore, pensando em teorias sobre o movimento dos corpos e as leis da física, quando, de repente, uma maçã cai de um galho e acerta sua cabeça. Isso, claro, nos faz lembrar da famosa história de Isaac Newton. 
+
+ Agora, voltando ao nosso físico moderno, ele se pergunta: Qual seria o tempo que essa maçã levaria para cair do galho até sua cabeça? Como a trajetória da maçã poderia mudar se não estivéssemos no planeta Terra, o que implica em variar a gravidade do sistema. 
+
+Para resolver isso, foi feita uma simulação de queda livre em Python, na qual os parâmetros de entrada podem ser variados. 
+
+<p align="center">
+  <img src="imagens/maca.png" alt="Descrição da imagem">
+  <br>
+</p>
 
  ## Conceitos de Física e Modelo Matemático:
 
@@ -61,18 +71,6 @@ E quando substituimos as condições iniciais da queda livre, ou seja $v_0 = 0$ 
 $$\begin{equation}
 z(t) = H - \frac{1}{2} g t^2 
 \end{equation}$$
-
- **Uma maçã caindo de um galho:**
- Imagine a cena: um físico distraído está andando tranquilamente sob uma árvore, pensando em teorias sobre o movimento dos corpos e as leis da física, quando, de repente, uma maçã cai de um galho e acerta sua cabeça. Isso, claro, nos faz lembrar da famosa história de Isaac Newton. 
-
- Agora, voltando ao nosso físico moderno, ele se pergunta: Qual seria o tempo que essa maçã levaria para cair do galho até sua cabeça? Como a trajetória da maçã poderia mudar se não estivéssemos no planeta Terra, o que implica em variar a gravidade do sistema. 
-
-Para resolver isso, foi feita uma simulação de queda livre em Python, na qual os parâmetros de entrada podem ser variados. 
-
-<p align="center">
-  <img src="imagens/maca.png" alt="Descrição da imagem">
-  <br>
-</p>
 
 
 ## Implementação
