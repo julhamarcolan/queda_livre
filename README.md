@@ -9,7 +9,7 @@ Desta maneira, é possível avaliar como a queda se comporta variando parâmetro
 
  **Queda Livre**
  
-Solte do repouso, numa altura \( H \) acima do solo, um objeto de massa \( m \). Este objeto está sujeito à ação da força da gravidade ($$ \vec{F}_g $$).
+Solte do repouso, numa altura \( H \) acima do solo, um objeto de massa \( m \). Este objeto está sujeito à ação da força da gravidade \( \vec{F}_g \).
 
 A queda livre é um movimento caracterizado pela ausência de forças resistivas, como a resistência do ar, deixando a gravidade como a única força atuante. Quando um objeto cai em queda livre, ele experimenta uma aceleração constante devido à gravidade, que na superfície da Terra tem uma média de \( 9,8 \, m/s^2 \).
 
