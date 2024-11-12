@@ -7,5 +7,5 @@ Desta maneira, é possível avaliar como a queda se comporta variando parâmetro
 
  ## Conceitos de Física e Modelo Matemático:
 
- **Queda Libre**
+ **Queda Livre**
 
